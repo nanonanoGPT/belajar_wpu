@@ -1,0 +1,75 @@
+
+
+
+
+
+
+        DAFTAR ISI
+
+1. apa itu node js
+2. arsitektur nodeJS
+3. instalasi & konfigurasi nodeJS
+4. node REPL (read-eval-print-loop)
+5. menjalankan file node 
+6. nodeJS module system
+7. nodeJS core module 
+8. apa itu NPM
+9. menggunakan package manager 
+10. membuat contact app bag -1
+11. membuat contact app bag -2
+12. membuat contact app bag 3 
+13. nodeJS web  server
+14. apa itu express 
+15. express view engine
+16. express middle ware
+17. express contact app bag 1
+18. express contact app bag 2
+19. express contact app bag 3
+20. apa itu monggoDB
+21. instalasi & konfigurasi monggoDB
+22. monggoDB & nodeJS
+23. monggoDB contact APP dengan monggose bag - 1
+24. monggoDB contact APP dengan monggose bag - 2
+
+
+
+
+    pembahasan
+
+1. apa itu node js
+
+    => apa itu nodeJS
+        => nodeJS adalah javascript runtime dari engine chorme versi 8
+        => runtime itu dimana kita menjalankan atau mengeksekusi sebuah code
+        
+    => arsitektur nodeJS
+    => instalasi, konfigurasi nodeJS
+    => nodeJS module system
+    => NPM
+    => membuat aplikasi nodeJS sederhana
+    
+    
+
+2. arsitektur nodeJS
+3. instalasi & konfigurasi nodeJS
+4. node REPL (read-eval-print-loop)
+5. menjalankan file node 
+6. nodeJS module system
+7. nodeJS core module 
+8. apa itu NPM
+9. menggunakan package manager 
+10. membuat contact app bag -1
+11. membuat contact app bag -2
+12. membuat contact app bag 3 
+13. nodeJS web  server
+14. apa itu express 
+15. express view engine
+16. express middle ware
+17. express contact app bag 1
+18. express contact app bag 2
+19. express contact app bag 3
+20. apa itu monggoDB
+21. instalasi & konfigurasi monggoDB
+22. monggoDB & nodeJS
+23. monggoDB contact APP dengan monggose bag - 1
+24. monggoDB contact APP dengan monggose bag - 2
